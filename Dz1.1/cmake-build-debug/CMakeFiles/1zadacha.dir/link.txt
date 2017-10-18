@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/1zadacha.dir/main.c.o  -o 1zadacha 
