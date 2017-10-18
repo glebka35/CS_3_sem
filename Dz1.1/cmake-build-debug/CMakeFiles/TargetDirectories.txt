@@ -1,0 +1,3 @@
+/home/gleb/CLionProjects/1zadacha/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gleb/CLionProjects/1zadacha/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gleb/CLionProjects/1zadacha/cmake-build-debug/CMakeFiles/1zadacha.dir
