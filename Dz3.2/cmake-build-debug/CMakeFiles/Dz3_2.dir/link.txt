@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Dz3_2.dir/main.c.o  -o Dz3_2 

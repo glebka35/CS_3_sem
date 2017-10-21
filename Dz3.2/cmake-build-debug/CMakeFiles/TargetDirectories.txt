@@ -1,0 +1,3 @@
+/home/gleb/CLionProjects/Dz3.2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gleb/CLionProjects/Dz3.2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gleb/CLionProjects/Dz3.2/cmake-build-debug/CMakeFiles/Dz3_2.dir
